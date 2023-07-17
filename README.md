@@ -1,7 +1,7 @@
 # Data-Science
 Factors Influencing Summer Olympics Performance - Analysis at a country and individual level.
 
-The main objective of our project is to discover:
+The main purpose of our project is to discover:
 
 - underlying factors that might directly or indirectly influence performance and success at the summer Olympics: at the national level and from an individual perspective.
   
