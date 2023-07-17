@@ -1,3 +1,8 @@
 # Data-Science
-Factors Influencing Summer Olympics Performance - Analysis at a country and individual level
-The main objective of our project is to discover more about the underlying factors that might directly or indirectly influence performance and success at the summer Olympics. We plan to analyze the factors having an impact on performance from two different angles: the influence at the national level and from an individual perspective. At the national level we will mainly try to see which demographic (population) and economic (GDP) factors influence total medal count for that specific country. At the individual athlete level, we plan to analyse which physical characteristics (height,weight) could be linked to higher performance in specific sports or events. As an overarching goal, we aim to generate knowledge and learn more about the Olympics, which could allow us to make recommendations and predict country-wide or individual probability of success for all the events taking place at the summer Olympics.
+Factors Influencing Summer Olympics Performance - Analysis at a country and individual level.
+
+The main objective of our project is to discover:
+
+- underlying factors that might directly or indirectly influence performance and success at the summer Olympics: at the national level and from an individual perspective.
+  
+- generate knowledge and learn more about the Olympics, which could allow us to make recommendations and predict country-wide or individual probability of success for all the events taking place at the summer Olympics.
